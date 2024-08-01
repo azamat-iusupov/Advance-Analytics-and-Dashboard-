@@ -1,4 +1,4 @@
-# Advance-Analytics-and-Dashboard
+# Advance-Analytics-and-Dashboard-Design
 ## Objective
 To build an interactive dashboard visually showcasing well-curated results of
 an advanced exploratory analysis conducted in Python.
