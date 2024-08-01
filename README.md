@@ -14,10 +14,6 @@ you discovered throughout this Achievement. Not all of your results will fit int
 sure to include any additional analyses you conducted in a GitHub repository.
 
 ### Data Requirements
-Your chosen data must meet specific criteria so that you can conduct the procedures explored in this
-Achievement (and develop the necessary skills for a junior analyst). You’ll likely need to source
-multiple data sets while working through the Achievement; however, we advise you to start with one
-main data set. Keep in mind that data sourcing can be very time-consuming!
 The data set(s) you choose must:
 ● Be open source;
 ● Come from an authentic/authoritative source;
@@ -29,9 +25,3 @@ for your needs and no newer data is available);
 ● Contain at least 1,500 rows;
 ● Include a geographical component with at least 2 different values (e.g., countries, continents,
 U.S. states, cities, latitude and longitude values—anything you can visualize on a map!).
-Page 1
-Note: Later in the Achievement, you’ll source a time series data set, too. You’ll learn more about that in
-the corresponding Exercise, so don’t worry about it for now.
-In summary, the most important feature your data set(s) must contain is a geographic object—you’ll
-need this data to conduct a geospatial analysis. In Exercise 6.1, we’ve suggested different data types
-you could use for this project based on your professional experience and goals.
