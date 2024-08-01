@@ -1,0 +1,24 @@
+Summary Statistics,,,,,,,,,,,,
+,,,,,,,,,,,,
+Variables and Data Types,,,,,,,,,,,,
+,,Data Types,,,,,,,,,,
+,Variables,Time-variant / -invariant,Structured / Unstructured,Qualitative / Quantitative,"Qualitative: Nominal / Ordinal 
+Quantitative: Discrete / Continuous",,,,,,,
+,Date,time-variant,structured  ,quantitative,continuous,,,,,,,
+,Day,time-variant,stuctured,quantitative,continuous,,,,,,,
+,Month,time-variant,stuctured,Qualitative   ,continuous,,,,,,,
+,Year,time-variant,stuctured,quantitative,continuous,,,,Column Name,Description,Example Formula,Example Calculation
+,Customer age,time-variant,stuctured,quantitative,continuous,,,,Order_Quantity,Number of units ordered,\text{Order_Quantity},5
+,Age Group,time-variant,stuctured,quantitative,continuous,,,,Unit_Cost,Cost per unit,Unit_Cost\text{Unit\_Cost}Unit_Cost,$10
+,Gender,time-invariant,stuctured,Qualitative   ,nominal,,,,Unit_Price,Selling price per unit,Unit_Price\text{Unit\_Price}Unit_Price,$15
+,Country,time-invariant,stuctured,Qualitative   ,nominal,,,,Profit,Revenue minus Cost,Revenue?Cost\text{Revenue} - \text{Cost}Revenue?Cost,$75 - $50 = $25
+,State,time-invariant,stuctured,Qualitative   ,nominal,,,,Cost,Total cost for ordered quantity,Unit_Cost×Order_Quantity\text{Unit\_Cost} \times \text{Order\_Quantity}Unit_Cost×Order_Quantity,$10 \times 5 = $50
+,Product Category,time-invariant,stuctured,Qualitative   ,nominal,,,,Revenue,Total income from selling ordered quantity,Unit_Price×Order_Quantity\text{Unit\_Price} \times \text{Order\_Quantity}Unit_Price×Order_Quantity,$15 \times 5 = $75
+,Sub Category,time-invariant,stuctured,Qualitative   ,nominal,,,,,,,
+,Product,time-invariant,stuctured,Qualitative   ,nominal,,,,,,,
+,Order Quantity,time-variant,stuctured,quantitative,continuous,,,,,,,
+,Unit Cost,time-variant,stuctured,quantitative,continuous,,,,,,,
+,Unit Price,time-variant,stuctured,quantitative,continuous,,,,,,,
+,Profit,time-variant,stuctured,quantitative,continuous,,,,,,,
+,Cost,time-variant,stuctured,quantitative,continuous,,,,,,,
+,Revenue,time-variant,stuctured,quantitative,continuous,,,,,,,
